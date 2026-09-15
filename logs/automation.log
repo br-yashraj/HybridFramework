@@ -1,0 +1,155 @@
+20:47:54.324 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+20:47:54.404 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+20:47:54.756 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+20:47:54.758 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+20:47:55.579 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+20:48:00.635 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:56)oggger - Test Failed
+20:48:00.636 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:57)oggger - Debug Logs
+20:49:00.196 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+20:49:00.278 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+20:49:00.674 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+20:49:00.676 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+20:49:02.993 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+20:49:03.022 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:64)oggger - **** Finished ****
+19:55:46.673 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:55:46.751 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+19:55:47.116 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+19:55:47.119 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+19:55:49.272 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+19:55:49.308 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:64)oggger - **** Finished ****
+19:55:57.196 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:55:57.273 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+19:55:57.639 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+19:55:57.640 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+19:55:58.718 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+19:56:02.254 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:56)oggger - Test Failed
+19:56:02.256 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:57)oggger - Debug Logs
+18:51:33.886 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+18:51:33.985 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+18:51:34.395 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+18:51:34.398 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+18:51:35.735 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+18:51:37.363 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+18:51:37.500 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+18:51:37.870 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+18:51:37.872 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+18:51:39.619 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+18:51:40.794 [TestNG-tests-2] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:56)oggger - Test Failed
+18:51:40.796 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:57)oggger - Debug Logs
+18:51:41.796 [TestNG-tests-1] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:56)oggger - Test Failed
+18:51:41.796 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:57)oggger - Debug Logs
+18:52:01.955 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+18:52:02.044 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+18:52:03.364 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+18:52:03.366 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+18:52:04.778 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+18:52:06.539 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:56)oggger - Test Failed
+18:52:06.539 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:57)oggger - Debug Logs
+18:53:56.365 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+18:53:56.451 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+18:53:56.812 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+18:53:56.817 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+18:53:58.221 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+18:54:01.114 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:56)oggger - Test Failed
+18:54:01.115 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:57)oggger - Debug Logs
+19:02:50.386 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:02:50.464 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+19:02:50.844 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+19:02:50.851 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+19:02:51.980 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+19:02:53.599 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:56)oggger - Test Failed
+19:02:53.599 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:57)oggger - Debug Logs
+19:32:17.583 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:32:17.659 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:22)oggger - Clicked My Account
+19:32:18.078 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:25)oggger - Clicked Register Link
+19:32:18.078 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:29)oggger - Providing all Details
+19:32:19.613 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:48)oggger - Validating Successfull Register
+19:32:19.648 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:64)oggger - **** Finished ****
+19:42:49.451 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:42:49.519 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+19:42:49.947 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+19:42:49.950 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+19:42:51.587 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+19:42:56.650 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+19:42:56.650 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+19:45:03.947 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:45:04.040 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+19:45:04.636 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+19:45:04.636 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+19:45:06.631 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+19:45:11.695 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+19:45:11.695 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+20:01:21.117 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+20:01:21.238 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+20:01:21.655 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+20:01:21.666 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+20:01:23.344 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+20:01:28.262 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+20:01:28.262 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+20:01:50.107 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+20:01:50.207 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+20:01:50.650 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+20:01:50.652 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+20:01:52.691 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+20:01:52.722 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:66)oggger - **** Finished ****
+20:04:58.717 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+20:04:58.837 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+20:04:59.238 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+20:04:59.242 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+20:05:02.574 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+20:05:02.603 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:66)oggger - **** Finished ****
+19:01:34.059 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:01:34.140 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+19:01:34.522 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+19:01:34.524 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+19:01:36.061 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+19:01:41.128 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+19:01:41.128 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+19:06:09.211 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:06:09.289 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+19:06:09.711 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+19:06:09.714 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+19:06:11.852 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+19:06:11.883 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:66)oggger - **** Finished ****
+19:09:28.469 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:09:28.548 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+19:09:28.931 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+19:09:28.937 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+19:09:30.391 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+19:09:35.421 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+19:09:35.422 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+19:34:54.889 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:34:54.971 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+19:34:55.429 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+19:34:55.433 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+19:34:56.357 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+19:35:01.417 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+19:35:01.417 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+19:56:33.009 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+19:56:33.092 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+19:56:33.438 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+19:56:33.440 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+19:56:35.003 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+19:56:40.026 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+19:56:40.026 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+20:04:06.913 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+20:04:06.975 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+20:04:07.322 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+20:04:07.326 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+20:04:08.892 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+20:04:13.904 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+20:04:13.904 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+18:48:32.755 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+18:48:32.979 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+18:48:33.389 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+18:48:33.394 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+18:48:38.576 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+18:48:43.652 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+18:48:43.652 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
+18:51:18.180 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:18)oggger - **** Starting TC001_AccountRegisterTest ****
+18:51:18.329 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:23)oggger - Clicked My Account
+18:51:18.760 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:26)oggger - Clicked Register Link
+18:51:18.764 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:31)oggger - Providing all Details
+18:51:22.538 [main] INFO  testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:50)oggger - Validating Successfull Register
+18:51:28.593 [main] ERROR testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:58)oggger - Test Failed
+18:51:28.593 [main] DEBUG testCases.TC001_AccountRegisterTest.verify_Register(TC001_AccountRegisterTest.java:59)oggger - Debug Logs
